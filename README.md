@@ -21,4 +21,12 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
