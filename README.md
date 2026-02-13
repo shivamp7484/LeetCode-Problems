@@ -52,4 +52,9 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
