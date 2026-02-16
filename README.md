@@ -21,6 +21,7 @@ Collection of LeetCode Problems...
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode Problems...
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
