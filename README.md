@@ -22,6 +22,7 @@ Collection of LeetCode Problems...
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode Problems...
 | [0011-container-with-most-water](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Collection of LeetCode Problems...
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
