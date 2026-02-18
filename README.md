@@ -23,6 +23,7 @@ Collection of LeetCode Problems...
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/shivamp7484/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
